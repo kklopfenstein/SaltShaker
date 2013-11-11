@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Salt Shaker</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading</string>
+	<string name="ok">OK</string>
+    <string name="error">ERROR</string>
+    <string name="logged_in">Log in successful!</string>
+    
+</resources>
